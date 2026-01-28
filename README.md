@@ -60,3 +60,7 @@ ReportLab / FPDF (PDF generation)
 # Applications
 
 This system can be used for generating student reports, sales summaries, financial statements, and other automated documentation tasks.
+
+# OUTPUT
+
+<img width="858" height="593" alt="Image" src="https://github.com/user-attachments/assets/b2cd55d4-c124-4190-809d-44d481636baf" />
